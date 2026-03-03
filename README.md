@@ -140,8 +140,7 @@ Se validan:
 
 El proyecto alcanza un 98% de cobertura de líneas, validado con Intellij IDE (Run whit Coverage);
 
-![img.png](img.png)
-
+![cobertura.png](cobertura.png)
 ---
 
 ## 📦 Entregables
