@@ -43,4 +43,7 @@ public class GestorTareas implements Accionable {
             }
         }
     }
+    public List<Tarea> obtenerTareas(){
+        return new ArrayList<>(tareas);
+    }
 }
