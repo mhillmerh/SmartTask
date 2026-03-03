@@ -136,7 +136,11 @@ Se validan:
 - Eliminación
 - Comportamiento del gestor
 
-Cobertura mínima esperada: 80%
+##Cobertura de Código
+
+El proyecto alcanza un 98% de cobertura de líneas, validado con Intellij IDE (Run whit Coverage);
+
+![img.png](img.png)
 
 ---
 
