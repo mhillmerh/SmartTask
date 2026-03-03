@@ -3,6 +3,9 @@ package com.smarttask.app;
 import com.smarttask.service.GestorTareas;
 import java.util.Scanner;
 
+/**
+ * Clase por la cual se interactua por la consola. Permitiendo eligir la opción que se quiere utilizar.
+ */
 public class SmartTaskApp {
     public static void main(String[] args) {
         GestorTareas gestor = new GestorTareas();

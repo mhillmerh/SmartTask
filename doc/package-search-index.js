@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.smarttask"},{"l":"com.smarttask.app"},{"l":"com.smarttask.model"},{"l":"com.smarttask.service"}];updateSearchResults();
